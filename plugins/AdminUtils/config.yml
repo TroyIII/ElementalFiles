@@ -1,0 +1,16 @@
+# 
+#  Plugin by Throns
+#
+
+# Modules - Set this to true if you want to use it.
+# --------------------------------------------------------------------------------------------------
+Chat: true
+# This means if you want to use the /chat thing to mute, unmute and clear the chat. 
+# It does not take effect in the normal chat.
+# --------------------------------------------------------------------------------------------------
+Freeze: true
+Message when a frozen player tries to move: '&cPlease do not try to move and read the chat.'
+# --------------------------------------------------------------------------------------------------
+AntiSwear: true
+Message when a player says a bad word: '&cPlease do not write those words in chat..'
+# --------------------------------------------------------------------------------------------------

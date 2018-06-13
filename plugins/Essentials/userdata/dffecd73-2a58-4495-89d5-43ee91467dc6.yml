@@ -1,0 +1,30 @@
+lastAccountName: thewighttiger
+timestamps:
+  login: 1528915960664
+  logout: 1528915955546
+  lastteleport: 1528916092981
+ipAddress: 24.149.24.194
+logoutlocation:
+  world: world
+  x: 9930.108559527016
+  y: 124.08443119435941
+  z: 270.46503068779555
+  yaw: 317.43176
+  pitch: 41.549976
+lastlocation:
+  world: world
+  x: 10000.23217032515
+  y: 136.83346250856087
+  z: 339.7199485229346
+  yaw: 136.83221
+  pitch: 40.049946
+afk: false
+socialspy: true
+homes:
+  home:
+    world: world
+    x: 9907.767036062392
+    y: 74.62710373006628
+    z: 229.56726151713374
+    yaw: -355.20355
+    pitch: 12.449984

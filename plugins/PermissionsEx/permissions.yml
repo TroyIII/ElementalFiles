@@ -1,0 +1,34 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+  Owner:
+    options:
+      prefix: '&7[&r&aOwner&7]'
+  Mod: {}
+  Builder: {}
+  Manager: {}
+  Operator: {}
+  Trainee: {}
+  COwner: {}
+schema-version: 1
+users:
+  066e5b24-2c76-4c31-8e6a-514a0356f899:
+    permissions:
+    - '*'
+    options:
+      name: Warthawg
+  a1476bac-4eb6-4986-b31a-3076aacc2f54:
+    permissions:
+    - '*'
+    options:
+      name: WillWam2
+    group:
+    - Owner
+  dffecd73-2a58-4495-89d5-43ee91467dc6:
+    group:
+    - Owner
+    options:
+      name: thewighttiger
