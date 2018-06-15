@@ -1,12 +1,13 @@
 groups:
   default:
     options:
+      prefix: '&aMember
       default: true
     permissions:
     - modifyworld.*
   Owner:
     options:
-      prefix: '&7[&r&aOwner&7]'
+      prefix: '&r&a&lOwner'
   Mod: {}
   Builder: {}
   Manager: {}
