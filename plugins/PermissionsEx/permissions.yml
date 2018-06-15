@@ -1,9 +1,36 @@
 groups:
-  default:
-    options:
-      prefix: '&aMember'
-      default: true
+  guest:
+    default: true
+    prefix: '&f[&7Player&f]&7'
     permissions:
+    - bukkit.command.list
+    - essentials.balance
+    - essentials.delhome
+    - essentials.exp
+    - essentials.help
+    - essentials.helpop
+    - essentials.home
+    - essentials.info
+    - essentials.kit
+    - essentials.kits.player
+    - essentials.list
+    - essentials.me
+    - essentials.msg
+    - essentials.pay
+    - essentials.realname
+    - essentials.sell
+    - essentials.sethome
+    - essentials.signs.use.buy
+    - essentials.signs.use.info
+    - essentials.signs.use.warp
+    - -essentials.socialspy
+    - essentials.spawn
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
     - modifyworld.*
   Owner:
     options:
