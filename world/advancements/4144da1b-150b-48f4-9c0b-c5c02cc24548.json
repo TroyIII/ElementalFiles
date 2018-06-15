@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2018-06-15 14:02:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2018-06-15 12:00:14 -0500"
@@ -343,6 +349,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2018-06-15 13:57:59 -0500",
       "extreme_hills_with_trees": "2018-06-15 11:46:16 -0500",
       "plains": "2018-06-15 11:44:56 -0500",
       "extreme_hills": "2018-06-15 11:45:56 -0500",
