@@ -32,9 +32,14 @@ groups:
     - essentials.warp
     - essentials.warp.list
     - modifyworld.*
+  Builder: 
+    options : 
+       prefix: '&f[&b&lBuilder&f]'
   Owner:
     options:
       prefix: '&r&a&lOwner&r '
+      permissions:
+      - '*'
   Mod: {}
   Builder: {}
   Manager: {}
