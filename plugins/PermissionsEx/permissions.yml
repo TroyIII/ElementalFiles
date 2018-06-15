@@ -1,5 +1,5 @@
 groups:
-  guest:
+  Guest:
     default: true
     prefix: '&f[&7Player&f]&r '
     permissions:
@@ -34,7 +34,7 @@ groups:
     - modifyworld.*
   Owner:
     options:
-      prefix: '&r&a&lOwner7r '
+      prefix: '&r&a&lOwner&r '
   Mod: {}
   Builder: {}
   Manager: {}
@@ -60,3 +60,8 @@ users:
     - Owner
     options:
       name: thewighttiger
+  4144da1b-150b-48f4-9c0b-c5c02cc24548:
+    group:
+    - Guest
+    options:
+      name: Cole133

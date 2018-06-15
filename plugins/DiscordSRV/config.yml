@@ -11,7 +11,7 @@ BotToken: "NDU3MjMyNTMxMzM5ODcwMjA5.DgWJgQ.rEyDtiJW_Jgi5UoK5qkP9PkMa7s"
 Channels: {"elementalservers": "457232948391837707"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: "457232948391837707"
+DiscordConsoleChannelId: "457233671288651804"
 
 # Debug options, don't touch unless needed
 #

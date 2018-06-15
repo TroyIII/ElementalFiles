@@ -1,0 +1,15 @@
+spawn:
+  world:
+    world: world
+  x:
+    world: 9973.609773973065
+  y:
+    world: 124.0
+  z:
+    world: 290.4488280472981
+  yaw:
+    world: -271.34995
+  pitch:
+    world: -2.3999982
+  version:
+    world: 2.5
