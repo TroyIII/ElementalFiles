@@ -1,7 +1,7 @@
 groups:
   default:
     options:
-      prefix: '&aMember
+      prefix: '&aMember'
       default: true
     permissions:
     - modifyworld.*
