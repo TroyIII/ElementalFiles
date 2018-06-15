@@ -141,11 +141,16 @@
     "criteria": {
       "forest": "2018-04-21 19:41:37 -0500",
       "swampland": "2018-06-12 18:54:08 -0500",
+      "deep_ocean": "2018-06-13 19:11:27 -0500",
+      "beaches": "2018-06-13 19:11:26 -0500",
       "extreme_hills_with_trees": "2018-04-21 19:40:49 -0500",
       "forest_hills": "2018-04-21 19:41:39 -0500",
       "plains": "2018-04-18 19:16:59 -0500",
+      "taiga": "2018-06-13 19:11:20 -0500",
+      "ocean": "2018-06-13 19:11:29 -0500",
       "extreme_hills": "2018-04-18 19:23:44 -0500",
-      "river": "2018-04-18 19:49:20 -0500"
+      "river": "2018-04-18 19:49:20 -0500",
+      "stone_beach": "2018-06-13 19:11:39 -0500"
     },
     "done": false
   },
@@ -212,6 +217,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stonebrick": "2018-06-12 18:56:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2018-06-13 14:27:23 -0500"
     },
     "done": true
   },
@@ -284,6 +295,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2018-06-13 13:52:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2018-06-14 15:42:43 -0500"
     },
     "done": true
   },
@@ -421,6 +438,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2018-06-13 14:27:23 -0500",
+      "rotten_flesh": "2018-06-13 16:48:26 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2018-06-13 13:52:23 -0500"
@@ -550,6 +574,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2018-06-12 18:53:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-06-14 15:49:37 -0500"
     },
     "done": true
   }
