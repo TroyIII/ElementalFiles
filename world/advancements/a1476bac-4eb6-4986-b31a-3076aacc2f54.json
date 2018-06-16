@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2018-06-15 15:26:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2018-06-15 14:40:17 -0500"
@@ -252,6 +258,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2018-06-15 15:26:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2018-04-25 17:31:39 -0500"
@@ -261,6 +273,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2018-04-22 19:26:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2018-06-15 15:26:11 -0500"
     },
     "done": true
   },
@@ -589,6 +607,12 @@
     },
     "done": false
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2018-06-15 15:00:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-06-15 15:02:22 -0500"
@@ -598,12 +622,6 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-06-15 15:02:22 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2018-06-15 15:00:49 -0500"
     },
     "done": true
   },
