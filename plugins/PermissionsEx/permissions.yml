@@ -68,6 +68,7 @@ users:
       name: thewighttiger
   4144da1b-150b-48f4-9c0b-c5c02cc24548:
     group:
-    - Guest
+    - Member
     options:
       name: Cole133
+  
