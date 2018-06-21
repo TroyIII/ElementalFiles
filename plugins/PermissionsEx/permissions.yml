@@ -1,7 +1,7 @@
 groups:
-  Guest:
+  Member:
     default: true
-    prefix: '&f[&7Player&f]&r '
+    prefix: '&f[&aMember&f]&r '
     permissions:
     - bukkit.command.list
     - essentials.balance
@@ -32,11 +32,17 @@ groups:
     - essentials.warp
     - essentials.warp.list
     - modifyworld.*
-  Owner:
+  Builder:
     options:
-      prefix: '&r&a&lOwner&r '
+    prefix: '&f&b&lbuilder&f]&r'
+    inheritance:
+    - Member
+    permissions
+  Owner:
+  options:
+  prefix: '&r[&a&lOwner]&r '
   Mod: {}
-  Builder: {}
+
   Manager: {}
   Operator: {}
   Trainee: {}
