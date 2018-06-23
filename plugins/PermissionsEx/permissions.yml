@@ -35,9 +35,10 @@ groups:
   Builder:
     options:
       prefix: '&f&b&lbuilder&f]&r'
-        inheritance:
-        - Member
-        premissions: {}
+      inheritance:
+      - Member
+      premissions:
+    - worldedit.history.redo
   Owner:
     options:
       prefix: '&r[&a&lOwner]&r '
