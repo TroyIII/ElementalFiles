@@ -33,7 +33,7 @@ groups:
     - essentials.warp.list
     - modifyworld.*
   Builder:
-    default: false
+    options: 
     prefix: '&f&b&lbuilder&f]&r '
     premissions:
     - worldedit.history.redo
