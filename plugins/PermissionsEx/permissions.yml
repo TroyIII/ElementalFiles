@@ -33,11 +33,9 @@ groups:
     - essentials.warp.list
     - modifyworld.*
   Builder:
-    options:
-      prefix: '&f&b&lbuilder&f]&r'
-      inheritance:
-      - Member
-      premissions:
+    default: false
+    prefix: '&f&b&lbuilder&f]&r '
+    premissions:
     - worldedit.history.redo
   Owner:
     options:
